@@ -14,5 +14,6 @@ namespace WebApplication4.Pages
         {
             Message = "Start howling away at other coyotes!";
         }
+
     }
 }
